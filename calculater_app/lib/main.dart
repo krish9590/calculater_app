@@ -5,6 +5,7 @@ import 'colors.dart';
 
 void main() {
   runApp(const CalculatorApp());
+
 }
 
 class CalculatorApp extends StatefulWidget {
